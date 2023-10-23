@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Emy 👋
 
 <!--
 **emyjamalian/emyjamalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- ✨ I'm an extra extroverted✨ 
+- 🌱 I’m currently learning to develope and not to only test 🌱
+- 🧘🏽‍♀️ Currently focused on helping development teams maintain high quality mindset and function well even without a dedicated QA.🧘🏽‍♀️
+- 👯 I’m looking to collaborate with more engineers 👯
+
+
