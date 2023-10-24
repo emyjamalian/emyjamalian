@@ -1,25 +1,13 @@
 ### Hi! I'm Emy 👋
 
-<!--
-**emyjamalian/emyjamalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 - ✨ I'm an extra extroverted✨ 
 - 🌱 I’m currently learning to develope and not to only test 🌱
 - 🧘🏽‍♀️ Currently focused on helping development teams maintain high quality mindset and function well even without a dedicated QA.🧘🏽‍♀️
 - 👯 I’m looking to collaborate with more engineers 👯
+- 🤣 Fun fact: I broke my nose crashing it to my knee
+
+[Me on Linkedin](https://www.linkedin.com/in/emyjamalian/)
+
 
 
