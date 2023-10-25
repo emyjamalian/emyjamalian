@@ -3,7 +3,6 @@
 - ✨ I'm an extra extroverted✨ 
 <img src="https://raw.githubusercontent.com/emyjamalian/emyjamalian/main/me.gif" alt="Homer">
 
-- ✨ I'm an extra extroverted✨ 
 - 🌱 I’m currently learning to develope and not to only test 🌱
 - 🧘🏽‍♀️ Currently focused on helping development teams maintain high quality mindset and function well even without a dedicated QA.🧘🏽‍♀️
 - 👯 I’m looking to collaborate with more engineers 👯
