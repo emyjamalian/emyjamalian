@@ -1,5 +1,6 @@
 ### Hi! I'm Emy 👋
 
+<img src="https://raw.githubusercontent.com/emyjamalian/emyjamalian/main/me.gif" alt="Homer">
 
 - ✨ I'm an extra extroverted✨ 
 - 🌱 I’m currently learning to develope and not to only test 🌱
